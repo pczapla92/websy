@@ -44,7 +44,7 @@
 	</dependencies>
 
 	<build>    
-		<finalName>websy}</finalName>
+		<finalName>websy</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
