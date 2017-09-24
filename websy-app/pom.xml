@@ -25,6 +25,12 @@
 			<type>zip</type>
 		</dependency>
 
+		<dependency>
+			<groupId>pc</groupId>
+			<artifactId>websy-repository</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

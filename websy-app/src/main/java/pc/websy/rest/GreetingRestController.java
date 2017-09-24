@@ -1,4 +1,4 @@
-package pc.websy;
+package pc.websy.rest;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class GreetingRestController {
 
-	@RequestMapping("/api/greeting")
+	@RequestMapping("/test/greeting")
 	public String greeting() {
 		return "Welcome!";
 	}
