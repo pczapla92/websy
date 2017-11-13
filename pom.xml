@@ -9,7 +9,7 @@
 	<packaging>pom</packaging>
 
 	<name>websy</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot teraz master</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
